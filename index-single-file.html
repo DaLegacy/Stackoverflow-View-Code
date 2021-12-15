@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../CSS/main.css">
+  <title>Cassie Gazette Red Panda</title>
+  <!--Bootstrap Header Link-->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!--/Bootstrap Header Link-->
+
+<!--Style-->
+  <style>
+html, body{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+#header-content-container{
+  background-color: rgb(124, 166, 106);
+}
+
+#navbar-logo-markup{
+  width: 50%;
+  height: auto;
+  min-height: 25px;
+  min-width: 100px;
+  max-height: 80px;
+  max-width: 250px;
+}
+
+.animal-name-en{
+  font-weight: bold !important;
+}
+
+.animal-name-p{
+  padding-top: 150px;
+}
+
+.animal-name-bg{
+  background: rgb(101, 67, 33);
+  width: 65%;
+  max-width: 600px;
+}
+
+.font-scaling{
+  font-size: calc(1.3rem + .6vw);
+}
+
+.col-markup{
+  width: 100%;
+}
+
+.col-wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.col-2 {
+  flex-grow: 1 !important;
+  background: url(https://robotica.ml/clients/zoos/col2-bg.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100% !important;
+}
+
+.footer-container-flex{
+  display: flex !important;
+  flex-direction: row !important;
+  background: #2D2D2D;
+}
+
+.col4-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.col4-column-width{
+  width: 50%;
+  height: auto;
+}
+
+.video-markup{
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+}
+
+.image-container-markup{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100%;
+}
+
+.image-container-markup img{
+  width: 100%;
+  height: auto;
+  max-height: 190px;
+  max-width: 500px;
+}
+
+.promotions-container,
+.copyright-container{
+  width: 50%;
+  color: white;
+  padding: 1rem;
+}
+
+.robotica-promotions,
+.primium-promotions-features{
+  width: 100%;
+}
+
+.hyperlink-markup{
+  color: white;
+  font-size: larger;
+}
+
+.page-bg{
+  background: url(https://robotica.ml/clients/zoos/red-panda-bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+.column-color{
+  background-color: rgb(124, 166, 106);
+}
+
+@media screen and (max-width: 426px) {
+  .footer-container-flex{
+    flex-direction: column !important;
+  }
+  .promotions-container,
+  .copyright-container{
+    width: 100% !important;
+    padding: 1rem;
+  }
+  .animal-name-p{
+    padding-top: 115px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .row {
+    flex-direction: column !important;
+  }
+  .col-wrapper {
+    display: contents !important;
+    width: 100% !important;
+  }
+  .col-1 {
+    order: 1 !important;
+  }
+  .col-2 {
+    order: 2 !important;
+  }
+  .col-3 {
+    order: 3 !important; 
+  }
+  .col4-container{
+    display: flex;
+    flex-direction: column;
+  }
+  .col4-column-width{
+    width: 100%;
+  }
+  .col2-markup{
+    min-height: 325px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  .container-alignment{
+    width: 1200px !important;
+    max-width: 1200px !important;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .container-alignment{
+    padding-right: 6rem !important;
+    padding-left: 6rem !important;
+  }
+}
+  </style>
+<!--/Style-->
+
+</head>
+<body>
+  <!--Header Container-->
+  <div class="container-fluid fixed-top border-bottom" id="header-content-container">
+
+    <!--Robotica Logo w/Hyperlink-->
+    <div>
+      <a href="https://robotica.media/solutions/cassie-gazette/"><img src="https://robotica.ml/images/logo-transparent.png" class="my-2" id="navbar-logo-markup" alt="Robotica Logo" title="Robotica Logo" aria-label="Robotica Logo"></a>
+    </div>
+    <!--/Robotica Logo w/Hyperlink-->
+  </div>
+  <!--/Header Container-->
+
+  <!--Content Container-->
+  <div class="container-fluid d-flex flex-column justify-content-center px-0 animal-name-p page-bg" id="main-content-container">
+    <!--Animal Names Container-->
+    <div class="d-flex flex-row justify-content-center aling-items-center" id="animal-names-container">
+      <div class="d-flex flex-column justify-content-center text-center text-white align-items-center rounded animal-name-bg">
+        <h1 class="display-5 animal-name-en p-2 m-0">Red Panda</h1>
+        <h3 class="display-6 m-0 p-2">Ailurus fulgens</h3>
+      </div>
+    </div>
+    <!--/Animal Names Container-->
+
+    <!--Static Content-->
+    <div class="container-fluid d-flex flex-column container-alignment pt-5" id="static-content-container">
+      <div class="row">
+        <div class="col-wrapper">
+          <div class="border col-1 col-markup container-fluid p-0 column-color">
+            <div class="d-flex flex-column">
+              <video class="embed-reponsive-item video-markup" controls poster="/img/video_poster.png">
+                <source
+                  src="https://cdn.api.video/vod/viNf2Fh6AgZBGg745VGy80b/mp4/1080/source.mp4"
+                  type="video/mp4"
+                  aria-labelledby="title"
+                  aria-describedby="transcript"
+                >
+                <iframe class="embed-reponsive-item video-markup" src="https://embed.api.video/vod/viNf2Fh6AgZBGg745VGy80b" width="100%" height="100%" frameborder="0" scrolling="no"   allowfullscreen="true"></iframe>
+              </video>
+            </div>
+          </div>
+          <div class="border col-3 col-markup container-fluid p-0 column-color">
+            <div class="d-flex flex-column align-items-center">
+              <h3 class="m-0 p-3 font-scaling">What do I eat?</h3>
+              <p class="m-0 p-3 font-scaling text-center">I mostly eat vegetation, and sometimes I eat meat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-wrapper">
+          <div class="border col-2 container-fluid p-0 column-color col2-markup">
+          </div>
+        </div>
+      </div>
+
+      <div class="row pb-5">
+        <div class="border col-md column-color p-0 col4-container">
+          <div class="col4-column-width engangared-content d-flex flex-column align-items-center">
+            <h3 class="m-0 p-3 font-scaling">Am I Engangared?</h3>
+            <div class="image-container-markup p-2">
+              <img class="rounded" src="https://robotica.ml/images/clients/endangered.png" alt="Red pandas are classified as Endangered" title="Red pandas are classified as Endangered" aria-label="Red pandas are classified as Endangered">
+            </div>
+            <p class="m-0 p-3 font-scaling text-center">Red pandas are endangered because construction and house building is causing deforestation and habitat loss.</p>
+          </div>
+          <div class="col4-column-width d-flex flex-column align-items-center">
+            <h3 class="m-0 p-3 font-scaling">Where do I live?</h3>
+            <div class="image-container-markup p-2">
+              <img class="rounded" src="https://robotica.ml/images/zoo-maps/red-panda-map-wide.png" alt="World map showing Red Panda habitat in Nepal and south-west China" title="World map showing Red Panda habitat in Nepal and south-west China" aria-label="World map showing Red Panda habitat in Nepal and south-west China">
+            </div>
+            <p class="m-0 p-3 font-scaling">I live in the forests of South Asia.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+  <!--/Static Content-->
+
+  <!--Primium Features-->
+
+  <!--/Primium Features-->
+
+  <!--/Content Container-->
+
+  <!--Footer-->
+  <footer class="container-fluid p-0 footer-container-flex">
+    <!--Promotions Container-->
+    <div class="promotions-container d-flex flex-row text-center" id="">
+      <!--Robotica Promotions-->
+      <div class="robotica-promotions">
+        <a href="https://robotica.media/solutions/cassie-gazette/" class="hyperlink-markup">Cassie Gazette</a>
+        <p class="m-0 p-1">Presents information signs, leaflets, and books so they become accessible to more people.</p>
+      </div>
+      <!--/Robotica Promotions-->
+      <!--Primium Features / Promotions-->
+      <!-- <div class="primium-promotions-features">
+        
+      </div> -->
+      <!--/Primium Features / Promotions-->
+    </div>
+    <!--Promotions Container-->
+    <br>
+    <!--Copyright Container-->
+    <div class="copyright-container">
+      <small class="d-block">Copyright © Robotica Machine Learning Limited.
+      </small>
+      <p class="m-0">Designed & Powered by Robotica Machine Learning</p>
+    </div>
+    <!--/Copyright Container-->
+  </footer>
+  <!--/Footer-->
+
+  <!--Bootstrap Script-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <!--/Bootstrap Script-->
+</body>
+</html>
