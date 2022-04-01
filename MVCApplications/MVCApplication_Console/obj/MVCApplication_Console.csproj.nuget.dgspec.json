@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\OneDrive\\Desktop\\Plurasight Learning\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj": {}
+    "C:\\Main Storage\\GitHub Repos\\Stackoverflow-View-Code\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\OneDrive\\Desktop\\Plurasight Learning\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj": {
+    "C:\\Main Storage\\GitHub Repos\\Stackoverflow-View-Code\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Desktop\\Plurasight Learning\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj",
+        "projectUniqueName": "C:\\Main Storage\\GitHub Repos\\Stackoverflow-View-Code\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj",
         "projectName": "MVCApplication_Console",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Desktop\\Plurasight Learning\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj",
+        "projectPath": "C:\\Main Storage\\GitHub Repos\\Stackoverflow-View-Code\\MVCApplications\\MVCApplication_Console\\MVCApplication_Console.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Desktop\\Plurasight Learning\\MVCApplications\\MVCApplication_Console\\obj\\",
+        "outputPath": "C:\\Main Storage\\GitHub Repos\\Stackoverflow-View-Code\\MVCApplications\\MVCApplication_Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
