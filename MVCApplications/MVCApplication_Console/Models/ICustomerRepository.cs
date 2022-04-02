@@ -3,6 +3,5 @@
     public interface ICustomerRepository
     {
         IEnumerable<Customer> Customers { get; }
-        Customer GetCustomerById(string customerId);
     }
 }

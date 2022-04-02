@@ -15,15 +15,9 @@
         }
 
         [HttpGet]
-        public IEnumerable<Customer> GetCustomers()
+        public List<Customer> GetCustomers()
         {
-            return Customer.Customers;
-        }
-
-        [HttpGet("{id}")]
-        public Customer GetCustomerById(string id)
-        {
-            return Customer.GetCustomerById(id);
+            return (List<Customer>)Customer.Customers;
         }
     }
 }

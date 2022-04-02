@@ -42,7 +42,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = true,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/applepiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -59,7 +59,7 @@ namespace BethanysPieShop.Models
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl =
                     "https://gillcleerenpluralsight.blob.core.windows.net/files/blueberrycheesecakesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -75,7 +75,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/cheesecakesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -91,7 +91,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/cherrypiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -108,7 +108,7 @@ namespace BethanysPieShop.Models
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl =
                     "https://gillcleerenpluralsight.blob.core.windows.net/files/christmasapplepiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -124,7 +124,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/cranberrypiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -140,7 +140,7 @@ namespace BethanysPieShop.Models
                 InStock = false,
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/peachpiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -156,7 +156,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = true,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/pumpkinpiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
 
@@ -173,7 +173,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = true,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/rhubarbpiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -189,7 +189,7 @@ namespace BethanysPieShop.Models
                 InStock = true,
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrypiesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
 
             modelBuilder.Entity<Pie>().HasData(new Pie
@@ -206,7 +206,7 @@ namespace BethanysPieShop.Models
                 IsPieOfTheWeek = false,
                 ImageThumbnailUrl =
                     "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrycheesecakesmall.jpg",
-                AllergyDescription = ""
+                AllergyInformation = ""
             });
         }
     }

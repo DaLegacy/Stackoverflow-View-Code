@@ -25,26 +25,3 @@ C:\Users\marti\OneDrive\Desktop\Plurasight Learning\MVCApplications\MVCApplicati
 C:\Users\marti\OneDrive\Desktop\Plurasight Learning\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.pdb
 C:\Users\marti\OneDrive\Desktop\Plurasight Learning\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Desktop\Plurasight Learning\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\ref\MVCApplication_Console.dll
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\appsettings.Development.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\appsettings.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\libman.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.staticwebassets.runtime.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.exe
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.deps.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.runtimeconfig.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.dll
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\bin\Debug\net6.0\MVCApplication_Console.pdb
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.csproj.AssemblyReference.cache
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.GeneratedMSBuildEditorConfig.editorconfig
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.AssemblyInfoInputs.cache
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.AssemblyInfo.cs
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.csproj.CoreCompileInputs.cache
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.MvcApplicationPartsAssemblyInfo.cache
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\staticwebassets.build.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\staticwebassets.development.json
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\scopedcss\bundle\MVCApplication_Console.styles.css
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.dll
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\refint\MVCApplication_Console.dll
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.pdb
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\MVCApplication_Console.genruntimeconfig.cache
-C:\Main Storage\GitHub Repos\Stackoverflow-View-Code\MVCApplications\MVCApplication_Console\obj\Debug\net6.0\ref\MVCApplication_Console.dll
